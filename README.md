@@ -1,5 +1,5 @@
 # Sample
 this repository is created just for practice.
-practice make human perfect.
+Master branch 
 
 changes done by Navyamonangiri
